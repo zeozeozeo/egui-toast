@@ -16,4 +16,4 @@ keywords = ["egui", "toast", "notification"]
 members = ["demo"]
 
 [dependencies]
-egui = { version = "0.26.1", default-features = false }
+egui = { git = "https://github.com/zeozeozeo/egui.git", branch = "tesselate-return-option" }
